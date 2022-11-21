@@ -1,0 +1,24 @@
+import React from "react";
+
+const Footer = () => {
+  return (
+    <div style={{ position: "sticky", bottom: 0 }}>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam condimentum
+      volutpat arcu quis molestie. In non tellus egestas, ultricies magna ut,
+      dictum nisi. Nam cursus dolor sem, in convallis diam commodo eu. Mauris at
+      rutrum arcu, pellentesque sollicitudin augue. Quisque placerat libero id
+      mi feugiat, ut faucibus tortor tempor. Nullam eu neque vitae ante
+      fermentum dictum sed at nisl. Etiam vulputate convallis vehicula. Mauris
+      semper tempor diam eget malesuada. Aenean a consequat purus. Aenean nec
+      odio mi. Fusce a tincidunt quam. Nunc rhoncus ex at ex bibendum dictum. In
+      ullamcorper, enim vel efficitur faucibus, nibh risus sagittis tellus,
+      vitae ultrices lorem dui ut velit. Nam lobortis interdum erat. Aenean a
+      consequat purus. Aenean nec odio mi. Fusce a tincidunt quam. Nunc rhoncus
+      ex at ex bibendum dictum. In ullamcorper, enim vel efficitur faucibus,
+      nibh risus sagittis tellus, vitae ultrices lorem dui ut velit. Nam
+      lobortis interdum erat.
+    </div>
+  );
+};
+
+export default Footer;
